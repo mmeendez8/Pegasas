@@ -28,5 +28,8 @@ This repository requires the following packages:
 
 `python run_demo.py`
 
+# Report
+An explanation of the research and the experiments carried out can be observed in report.pdf file. Unfortunately the data used in this project is private.
 
-> I have developed this demo together with Leonardo Vilela Teixeira at Purdue University
+# Authors
+This demo has been developed by Leonardo Vilela Teixeira and Miguel Mendez Perez at Purdue University
