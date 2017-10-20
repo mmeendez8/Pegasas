@@ -27,3 +27,6 @@ This repository requires the following packages:
  features obtained by using DTW.
 
 `python run_demo.py`
+
+
+> I have developed this demo together with Leonardo Vilela Teixeira at Purdue University
